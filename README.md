@@ -42,7 +42,7 @@ I enjoy learning how computer networks work, troubleshooting technical problems,
 - Linux
 - Git and GitHub
 
-*These are skills I have learned or am currently practising through training and hands-on labs.*
+
 
 ## Networking Projects
 
