@@ -1,4 +1,4 @@
-# Hi, I'm Nuredin Awate
+# Hi I'm Nuredin Awate
 
 ### Aspiring Network Engineer | IT Support | CCNA Student
 
